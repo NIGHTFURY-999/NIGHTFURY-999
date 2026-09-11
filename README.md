@@ -60,7 +60,7 @@ if __name__ == "__main__":
 │ MODE     : Building + Learning + Breaking Things         │
 └──────────────────────────────────────────────────────────┘
 ```
-<img src="https://raw.githubusercontent.com/NIGHTFURY-999/NIGHTFURY-999/output/github-contribution-grid-snake.svg" /> Commit, and it'll appear on your profile.
+
 I'm a Computer Science student who cares more about **how systems work internally** than about calling a pre-built API and moving on. My loop is simple:
 
 > **Learn → Implement → Break → Debug → Improve → Repeat**
@@ -267,7 +267,7 @@ int main() {
 <img src="https://github-profile-trophy.vercel.app/?username=NIGHTFURY-999&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8" width="80%" alt="Trophies"/>
 
 </div>
-
+<img src="https://raw.githubusercontent.com/NIGHTFURY-999/NIGHTFURY-999/output/github-contribution-grid-snake.svg" /> 
 <br/>
 
 ## `08` // CURRENTLY LEARNING
