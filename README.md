@@ -267,7 +267,7 @@ int main() {
 <img src="https://github-profile-trophy.vercel.app/?username=NIGHTFURY-999&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8" width="80%" alt="Trophies"/>
 
 </div>
-<img src="https://raw.githubusercontent.com/NIGHTFURY-999/NIGHTFURY-999/output/github-contribution-grid-snake.svg" /> 
+
 <br/>
 
 ## `08` // CURRENTLY LEARNING
@@ -281,7 +281,7 @@ System Design      █████████████░░░░░░░�
 ```
 
 > The goal isn't to know everything. The goal is to understand something deeply enough to build with it.
-
+<img src="https://raw.githubusercontent.com/NIGHTFURY-999/NIGHTFURY-999/output/github-contribution-grid-snake.svg" /> 
 <br/>
 
 ## `09` // DEVELOPMENT PHILOSOPHY
