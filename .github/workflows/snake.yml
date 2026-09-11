@@ -1,0 +1,42 @@
+# Optional bonus: animates your contribution graph as a snake eating it.
+#
+# SETUP:
+# 1. In your NIGHTFURY-999/NIGHTFURY-999 repo, create the folder path
+#    .github/workflows/ and save this file inside it as snake.yml
+# 2. Push it to the "main" branch — it will run on a schedule and on push.
+# 3. After the first run finishes (check the "Actions" tab), add this line
+#    to your README.md wherever you'd like the animation to appear:
+#
+#    <img src="https://raw.githubusercontent.com/NIGHTFURY-999/NIGHTFURY-999/output/github-contribution-grid-snake.svg" />
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day
+  push:
+    branches:
+      - main
+  workflow_dispatch: {}
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: NIGHTFURY-999
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push output to "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
