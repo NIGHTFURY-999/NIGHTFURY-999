@@ -1,221 +1,233 @@
 <div align="center">
 
-# `> VAIBHAV HALDANKAR_`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e3c72,100:2a5298&height=220&section=header&text=Vaibhav%20Haldankar&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20/%20ML%20Engineer%20%E2%80%A2%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=18&descColor=cfd8ff" width="100%"/>
 
-### `AI / ML ENGINEER • DEVELOPER • PROBLEM SOLVER`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DBFB&center=true&vCenter=true&width=680&lines=Building+RAG+Systems+That+Actually+Retrieve;Training+ML+Models%2C+One+Bug+At+A+Time;Turning+Coffee+Into+Code+Since+Day+One;Currently+Exploring%3A+Agentic+AI+Systems" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Building+systems%2C+not+just+projects.;Machine+Learning+%7C+AI+%7C+Algorithms;Turning+data+into+intelligence.;Always+learning.+Always+building.;%24+sudo+make+it+work" />
+<br/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=NIGHTFURY-999&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge" />
+<!-- TODO: these two badges already work off your real GitHub username -->
+<img src="https://komarev.com/ghpvc/?username=NIGHTFURY-999&label=PROFILE%20VIEWS&color=1e3c72&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/NIGHTFURY-999?label=FOLLOWERS&style=flat-square&color=2a5298" alt="Followers"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-2a5298?style=flat-square" alt="Location"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20%26%20LEARNING-0f0c29?style=flat-square" alt="Status"/>
 
 </div>
 
----
+<br/>
 
-<div align="center">
+## `01` // WHOAMI
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     SYSTEM STATUS                            │
-├──────────────────────────────────────────────────────────────┤
-│  USER       : vaibhav                                        │
-│  ROLE       : AI / ML Developer                              │
-│  STATUS     : ONLINE                                         │
-│  FOCUS      : Machine Learning • RAG • Algorithms            │
-│  CURRENTLY  : Building + Learning + Breaking Things          │
-└──────────────────────────────────────────────────────────────┘
-</div>
-01 // WHOAMI
+```python
 class Vaibhav:
-
     def __init__(self):
-        self.name = "Vaibhav Haldankar"
-        self.role = "Computer Science Student"
-        self.location = "India"
+        self.name          = "Vaibhav Haldankar"
+        self.role          = "Computer Science Student"
+        self.location      = "India"
 
         self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
             "Algorithms",
             "Data Science",
-            "Software Development"
+            "Software Development",
         ]
 
         self.current_focus = [
             "RAG Systems",
             "LLM Applications",
             "DSA",
-            "ML Engineering"
+            "ML Engineering",
         ]
 
-    def introduce(self):
+    def introduce(self) -> str:
         return "Build. Break. Debug. Learn. Repeat."
 
-I'm a Computer Science student interested in Artificial Intelligence, Machine Learning, Algorithms and Software Development.
 
-I like understanding how systems work internally rather than simply using pre-built solutions.
+if __name__ == "__main__":
+    me = Vaibhav()
+    print(me.introduce())
+```
 
-My approach is simple:
+```
+┌──────────────────────────────────────────────────────────┐
+│ SYSTEM STATUS                                            │
+├──────────────────────────────────────────────────────────┤
+│ USER     : vaibhav                                       │
+│ ROLE     : AI / ML Developer                             │
+│ STATUS   : ● ONLINE                                      │
+│ FOCUS    : Machine Learning · RAG · Algorithms           │
+│ MODE     : Building + Learning + Breaking Things         │
+└──────────────────────────────────────────────────────────┘
+```
 
-Learn → Implement → Break → Debug → Improve → Repeat
+I'm a Computer Science student who cares more about **how systems work internally** than about calling a pre-built API and moving on. My loop is simple:
 
-I enjoy building projects that combine real-world data, machine learning, automation and software engineering.
+> **Learn → Implement → Break → Debug → Improve → Repeat**
 
-02 // CURRENT MISSION
-╔════════════════════════════════════════════════════════════╗
-║                     CURRENT OBJECTIVES                     ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  [✓] Strengthen Data Structures & Algorithms                ║
-║  [✓] Build practical Machine Learning systems               ║
-║  [✓] Explore Generative AI & RAG                            ║
-║  [→] Improve system design & backend engineering             ║
-║  [→] Build production-ready AI applications                 ║
-║  [→] Become a stronger problem solver                         ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-03 // TECH STACK
-<div align="center">
-LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript" />
-AI / MACHINE LEARNING
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /> <br> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-WEB / BACKEND
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,fastapi" />
-DATABASES / CLOUD / TOOLS
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,aws,linux,vscode" /> <br> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> </div>
-04 // WHAT I BUILD
-                    ┌───────────────────┐
-                    │       IDEA        │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │       DATA        │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │    ALGORITHM      │
-                    │    / MODEL        │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │     SYSTEM        │
-                    └─────────┬─────────┘
-                              │
-                              ▼
-                    ┌───────────────────┐
-                    │   REAL WORLD      │
-                    └───────────────────┘
-🤖 Artificial Intelligence
-Retrieval-Augmented Generation
-LLM applications
-Semantic search
-Vector embeddings
-Natural Language Processing
-AI-powered recommendation systems
-🧠 Machine Learning
-Regression
-Classification
-Decision Trees
-Random Forest
-KNN
-K-Means
-PCA
-Feature Engineering
-Model Evaluation
-⚙️ Algorithms
-Binary Search
-Sorting
-Greedy Algorithms
-Dynamic Programming
-Graph Algorithms
-Backtracking
-Branch & Bound
-Huffman Coding
-Optimal BST
-🌐 Software Development
-REST APIs
-Full-stack applications
-Database integration
-Authentication
-Cloud deployment
-Git-based development
-05 // FEATURED PROJECTS
-🧠 AI-Powered Document Question Answering
-PDF / DOCX
-    │
-    ▼
-TEXT EXTRACTION
-    │
-    ▼
-CHUNKING
-    │
-    ▼
-VECTOR EMBEDDINGS
-    │
-    ▼
-CHROMA VECTOR DATABASE
-    │
-    ▼
-SEMANTIC RETRIEVAL
-    │
-    ▼
-LLM
-    │
-    ▼
-ANSWER
+I build projects that combine real-world data, machine learning, automation, and software engineering — mostly because I learn fastest when something is actually broken in front of me.
 
-Stack: Python FastAPI ChromaDB Sentence Transformers Ollama Gemma
+<br/>
 
-Built an end-to-end RAG pipeline capable of retrieving relevant document context and generating answers using a local LLM.
+## `02` // CURRENT MISSION
 
-🌱 Soil Fertility AI Predictor
+- [x] Strengthen Data Structures & Algorithms
+- [x] Build practical Machine Learning systems
+- [x] Explore Generative AI & RAG
+- [ ] Improve system design & backend engineering
+- [ ] Ship production-ready AI applications
+- [ ] Become a stronger, calmer problem solver
 
-Machine learning system for predicting soil fertility using multiple soil parameters.
+<br/>
 
-Stack: Python Flask Scikit-learn Random Forest Plotly
+## `03` // TECH STACK
 
-Features include:
+**Languages**
 
-Soil parameter analysis
-ML-based prediction
-Feature preprocessing
-Fertility scoring
-Interactive visualization
-📺 QueryTube
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css" />
 
-Semantic video search and summarization system using YouTube transcript data.
+**AI / Machine Learning**
 
-Stack: Python NLP FAISS Vector Embeddings Ollama
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-3B5998?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 
-USER QUERY
-     ↓
-EMBEDDING
-     ↓
-VECTOR SEARCH
-     ↓
-RELEVANT VIDEOS
-     ↓
-LLM SUMMARIZATION
-🌾 Agri AI
+**Web / Backend**
 
-AI-powered agriculture platform combining intelligent recommendations with a digital marketplace.
+<img src="https://skillicons.dev/icons?i=flask,fastapi,django,nodejs,express,react,mongo" />
 
-Stack: MERN Machine Learning AI MongoDB
+**Databases / Cloud / Tools**
 
-06 // DSA LAB
-#include <iostream>
-using namespace std;
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,aws,linux,vscode" />
 
+<br/>
+
+## `04` // WHAT I BUILD
+
+```
+┌─────────────────────┐
+│         IDEA        │
+└─────────────────────┘
+          │
+          ▼
+┌─────────────────────┐
+│         DATA         │
+└─────────────────────┘
+          │
+          ▼
+┌─────────────────────┐
+│  ALGORITHM / MODEL  │
+└─────────────────────┘
+          │
+          ▼
+┌─────────────────────┐
+│        SYSTEM        │
+└─────────────────────┘
+          │
+          ▼
+┌─────────────────────┐
+│      REAL WORLD      │
+└─────────────────────┘
+```
+
+| Domain | What I work with |
+|---|---|
+| 🤖 **Artificial Intelligence** | Retrieval-Augmented Generation, LLM applications, semantic search, vector embeddings, NLP, AI-powered recommendations |
+| 🧠 **Machine Learning** | Regression, Classification, Decision Trees, Random Forest, KNN, K-Means, PCA, feature engineering, model evaluation |
+| ⚙️ **Algorithms** | Binary Search, sorting, greedy algorithms, dynamic programming, graph algorithms, backtracking, branch & bound, Huffman coding, Optimal BST |
+| 🌐 **Software Development** | REST APIs, full-stack apps, database integration, authentication, cloud deployment, Git-based workflows |
+
+<br/>
+
+## `05` // FEATURED PROJECTS
+
+<details>
+<summary><b>🧠 AI-Powered Document Question Answering</b> — an end-to-end RAG pipeline</summary>
+<br/>
+
+Retrieves relevant context from PDFs/DOCX files and generates grounded answers using a local LLM — no cloud API required.
+
+```
+PDF / DOCX  →  TEXT EXTRACTION  →  CHUNKING  →  VECTOR EMBEDDINGS
+   →  CHROMA VECTOR DATABASE  →  SEMANTIC RETRIEVAL  →  LLM  →  ANSWER
+```
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemma-4285F4?style=flat-square"/>
+
+🔗 **Repo:** _add your repository link here_
+
+</details>
+
+<details>
+<summary><b>🌱 Soil Fertility AI Predictor</b> — ML system for agriculture</summary>
+<br/>
+
+Predicts soil fertility from multiple soil parameters, with interactive visualizations for exploring the results.
+
+- Soil parameter analysis & feature preprocessing
+- ML-based fertility scoring (Random Forest)
+- Interactive visualization dashboard
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+
+🔗 **Repo:** _add your repository link here_
+
+</details>
+
+<details>
+<summary><b>📺 QueryTube</b> — semantic video search & summarization</summary>
+<br/>
+
+Turns a plain-language query into the most relevant moments across a library of YouTube transcripts, then summarizes them.
+
+```
+USER QUERY  →  EMBEDDING  →  VECTOR SEARCH  →  RELEVANT VIDEOS  →  LLM SUMMARIZATION
+```
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-3B5998?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+
+🔗 **Repo:** _add your repository link here_
+
+</details>
+
+<details>
+<summary><b>🌾 Agri AI</b> — AI-powered agriculture marketplace</summary>
+<br/>
+
+Combines intelligent crop/farming recommendations with a digital marketplace for farmers, built on the MERN stack.
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square"/>
+
+🔗 **Repo:** _add your repository link here_
+
+</details>
+
+<br/>
+
+## `06` // DSA LAB
+
+```cpp
 int main() {
-
     while (true) {
-
         learn();
         code();
         debug();
@@ -223,113 +235,114 @@ int main() {
 
         if (problemSolved())
             celebrate();
-
         else
             repeat();
-
     }
-
     return 0;
 }
-Algorithms I've worked with
-Category	Algorithms
-Searching	Binary Search
-Sorting	Merge Sort, Quick Sort
-Greedy	Knapsack, Job Sequencing
-Graphs	Floyd-Warshall, TSP
-Backtracking	N-Queens, 15 Puzzle
-Compression	Huffman Coding
-Optimization	Branch & Bound
-Trees	Optimal BST
-07 // GITHUB ANALYTICS
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NIGHTFURY-999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIGHTFURY-999&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" /> </div>
-08 // CONTRIBUTION MATRIX
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIGHTFURY-999&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" /> </div>
-09 // CURRENTLY LEARNING
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│  ████████████████████░░░░  RAG                    │
-│  ██████████████████░░░░░░  LLM APPLICATIONS      │
-│  █████████████████░░░░░░░  MACHINE LEARNING      │
-│  ███████████████░░░░░░░░░  DSA                   │
-│  █████████████░░░░░░░░░░░  SYSTEM DESIGN         │
-│                                                    │
-└────────────────────────────────────────────────────┘
+```
 
-The goal isn't to know everything.
-The goal is to understand something deeply enough to build with it.
+| Category | Algorithms |
+|---|---|
+| Searching | Binary Search |
+| Sorting | Merge Sort, Quick Sort |
+| Greedy | Knapsack, Job Sequencing |
+| Graphs | Floyd–Warshall, TSP |
+| Backtracking | N-Queens, 15 Puzzle |
+| Compression | Huffman Coding |
+| Optimization | Branch & Bound |
+| Trees | Optimal BST |
 
-10 // DEVELOPMENT PHILOSOPHY
-                    CODE
-                     │
-                     ▼
-                  COMPILE
-                     │
-                     ▼
-                   ERROR
-                     │
-                     ▼
-                  DEBUG
-                     │
-                     ▼
-                  GOOGLE
-                     │
-                     ▼
-                  DEBUG
-                     │
-                     ▼
-                  SUCCESS
-                     │
-                     ▼
-              "Why does this work?"
-                     │
-                     ▼
-                  LEARN
-                     │
-                     └──────────────► REPEAT
+<br/>
 
-I don't believe in pretending every project is perfect.
+## `07` // GITHUB ANALYTICS
 
-I believe in:
-
-Understanding the problem
-Building the first version
-Finding what breaks
-Debugging systematically
-Improving the architecture
-Documenting what I learned
-11 // CERTIFICATIONS
-╭─────────────────────────────────────────────────────────╮
-│                                                         │
-│  ✓ Cyber Security For Beginners                         │
-│  ✓ Introduction to Python, Flask & Django              │
-│  ✓ Google Data Analytics Foundations                    │
-│                                                         │
-╰─────────────────────────────────────────────────────────╯
-12 // LET'S CONNECT
-<div align="center"> <a href="https://github.com/NIGHTFURY-999"> <img src="https://img.shields.io/badge/GitHub-NIGHTFURY--999-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /> </a>
-
-<br><br>
-
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│  $ whoami                                        │
-│  vaibhav                                          │
-│                                                  │
-│  $ echo $MISSION                                  │
-│  BUILD_SYSTEMS_THAT_SOLVE_REAL_PROBLEMS           │
-│                                                  │
-│  $ echo $STATUS                                   │
-│  LEARNING...                                      │
-│                                                  │
-└──────────────────────────────────────────────────┘
-⭐ If you find something useful here, consider giving it a star.
-</div>
 <div align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-             BUILD • BREAK • DEBUG • REPEAT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-© Vaibhav Haldankar
+<img src="https://github-readme-stats.vercel.app/api?username=NIGHTFURY-999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIGHTFURY-999&layout=compact&theme=tokyonight&hide_border=true" width="34%" alt="Top Languages"/>
 
-</div> ```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NIGHTFURY-999&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=NIGHTFURY-999&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8" width="80%" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+## `08` // CURRENTLY LEARNING
+
+```
+RAG                ████████████████████░░░░  85%
+LLM Applications   ██████████████████░░░░░░  78%
+Machine Learning   █████████████████░░░░░░░  72%
+DSA                ███████████████░░░░░░░░░  65%
+System Design      █████████████░░░░░░░░░░░  55%
+```
+
+> The goal isn't to know everything. The goal is to understand something deeply enough to build with it.
+
+<br/>
+
+## `09` // DEVELOPMENT PHILOSOPHY
+
+```
+   CODE → COMPILE → ERROR → DEBUG → GOOGLE → DEBUG → SUCCESS
+                                                          │
+                                                          ▼
+                                          "Why does this work?"
+                                                          │
+                                                          ▼
+                                                       LEARN ──► REPEAT
+```
+
+I don't pretend every project is perfect. I believe in:
+
+1. Understanding the problem before writing a line of code
+2. Building the first version, however rough
+3. Finding what breaks it
+4. Debugging systematically instead of guessing
+5. Improving the architecture once it actually works
+6. Documenting what I learned, so future-me doesn't repeat past-me's mistakes
+
+<br/>
+
+## `10` // CERTIFICATIONS
+
+- ✅ Cyber Security for Beginners
+- ✅ Introduction to Python, Flask & Django
+- ✅ Google Data Analytics Foundations
+
+<br/>
+
+## `11` // LET'S CONNECT
+
+<div align="center">
+
+<!-- TODO: replace the # links below with your real profile URLs -->
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-2a5298?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+
+</div>
+
+```
+$ whoami
+vaibhav
+
+$ echo $MISSION
+BUILD_SYSTEMS_THAT_SOLVE_REAL_PROBLEMS
+
+$ echo $STATUS
+LEARNING...
+```
+
+<div align="center">
+
+⭐ **If something here was useful, a star goes a long way.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,50:1e3c72,100:0f0c29&height=120&section=footer"/>
+
+</div>
