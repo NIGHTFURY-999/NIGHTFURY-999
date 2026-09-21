@@ -1,5 +1,5 @@
 <div align="center">
-
+#jhvv
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:1f6feb&height=170&section=header&text=Vaibhav%20Haldankar&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=AI%20/%20ML%20Engineer%20%E2%80%A2%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=65&descSize=15&descColor=8b949e" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+RAG+systems+that+actually+retrieve;Training+ML+models%2C+one+bug+at+a+time;Currently+exploring%3A+agentic+AI+systems" alt="Typing SVG" />
