@@ -1,5 +1,5 @@
 <div align="center">
-wewe
+
 # VAIBHAV
 
 ### `TECHNICAL FOUNDER · AI/ML · SOFTWARE · SYSTEMS`
